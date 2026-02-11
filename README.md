@@ -297,5 +297,8 @@ For questions or issues with this lab package:
 
 ---
 
+Submission Link : https://drive.google.com/drive/folders/1nGTn6bOjFImx0LkH_E-qQUutiKzv-crD?usp=sharing
+Format : <name>_date.pdf
+
 **Happy Teaching!**
 
