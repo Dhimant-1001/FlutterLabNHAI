@@ -1,0 +1,32 @@
+name: my_flutter_lab
+description: A beginner Flutter lab project for learning widgets, state, and hot reload.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    # TODO(step-3): Uncomment the line below to enable image assets
+    # - assets/images/
+
+  fonts:
+    # TODO(step-6): Uncomment the lines below to add custom fonts
+    # - family: Poppins
+    #   fonts:
+    #     - asset: assets/fonts/Poppins-Regular.ttf
+    #     - asset: assets/fonts/Poppins-Bold.ttf
+    #       weight: 700
