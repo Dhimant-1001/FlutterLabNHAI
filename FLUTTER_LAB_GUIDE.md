@@ -121,7 +121,7 @@ You should see Chrome and your emulator.
 ### macOS Installation
 
 #### 1. Install Flutter SDK
-1. Download Flutter SDK from [flutter.dev](https://docs.flutter.dev/get-started/install/macos)
+1. Download Flutter SDK from [flutter.dev](https://docs.flutter.dev/install/quick)
 2. Extract to your home directory:
 ```bash
 cd ~
